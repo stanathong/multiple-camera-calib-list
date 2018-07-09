@@ -1,2 +1,3 @@
-# multiple-camera-calib-list
-A list of tools for multiple camera calibration
+# A list of tools for multi-camera calibration
+
+
