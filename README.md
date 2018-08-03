@@ -13,7 +13,7 @@ __Referrence:__ Bo, L., Heng, L., Koser, K., Pollefeys, M., 2013. A multiple-cam
 <br>
 This package implements a bundle adjustment algorithm for ominidirectional and multi-view cameras, which can be applied to obtain the pose of the cameras in the rig.<br>
 
-__Tool:__ [Project Page and code](http://www.ipb.uni-bonn.de/data-software/bacs/)<br>
+__Tool:__ [Project Page and Code](http://www.ipb.uni-bonn.de/data-software/bacs/)<br>
 __Platform:__ MATLAB<br>
 __Referrence:__ Schneider, J., Schindler, F., Labe, T., Forstner, W., 2012. Bundle adjustment for multi-camera system with points at infinity.<br>
 
