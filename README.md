@@ -27,3 +27,12 @@ __Platform:__ MATLAB<br>
 __Code:__ `git clone https://bitbucket.org/michaeldwarren/amcctoolbox.git`<br>
 __Referrence:__ Warren, M., McKinnon, D., Upcroft, B., 2013. Online calibration of stereo rigs for long-term autonomy. <br>
 
+
+## MultiCamSelfCal - Multi Camera Calibration Toolbox
+<br>
+This tool is implemented in MATLAB offering a complete and fully automatic calibration of multi-camera setups. Note that the minimum number of cameras in the rig is 3 cameras. __This is important: this technique requires a calibration to be done in a dark room as the calibration object is a laser pointer.__ In this case, it might be difficult for a vehicle equipped with cameras to be fit in a dark room that is large enough. Another concern point is that their system has multiple cameras pointing inward like a teleconference system so it might not work for a system such as cameras mounted on a vehicle. <br>
+
+__Tool:__ [Project Page and Code](http://cmp.felk.cvut.cz/~svoboda/SelfCal/)<br>
+__Platform:__ MATLAB and possibly Octave compatible<br>
+__Referrence:__ Svoboda, T., Martinec, D., Pajdla, T., 2005. A convenient multi-camera self-calibration for virtual environments. <br>
+
