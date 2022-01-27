@@ -36,3 +36,14 @@ __Tool:__ [Project Page and Code](http://cmp.felk.cvut.cz/~svoboda/SelfCal/)<br>
 __Platform:__ MATLAB and possibly Octave compatible<br>
 __Referrence:__ Svoboda, T., Martinec, D., Pajdla, T., 2005. A convenient multi-camera self-calibration for virtual environments. <br>
 
+
+## MC-Calib
+<br>
+MC-Calib is dedicated to the calibration (intrinsics and extrinsics) of complex synchronized multi-camera (perspective, fisheye, hybrid) systems using an arbitrary number of fiducial marker-based patterns. This method is not constrained by the number of cameras, their overlapping field-of-view (can handle overlapping, non-overlapping, converging configurations), or the number of calibration patterns used. Moreover, neither prior information about the camera system nor the positions of the checkerboards are required. As a result, minimal user interaction is needed to achieve an accurate and robust calibration which makes this toolbox accessible even with limited computer vision expertise.
+<br>
+
+__Tool:__ [Project Page and Code](https://github.com/rameau-fr/MC-Calib)<br>
+__Platform:__ C++14<br>
+__Referrence:__ Rameau F., Park J., Bailo O., Kweon I., 2022.  MC-Calib: A generic and robust calibration toolbox for multi-camera systems. <br>
+
+
